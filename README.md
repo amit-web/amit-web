@@ -23,11 +23,12 @@
 💬 **Ask me about :** JavaScript, React,Redux and MongoDb
 
 ⚡Fun Facts
-JavaScript ♥️
 <br/>
-Time, Tide and JavaScript waits for none.
+•JavaScript ♥️
 <br/>
-Functions are like the heart of JavaScript.
+•Time, Tide and JavaScript waits for none.
+<br/>
+•Functions are like the heart of JavaScript.
 <br/>
 
 <!-- 📫 You can reach me at [chat](mailto:mehtaamitpro@gmail.com)! -->
