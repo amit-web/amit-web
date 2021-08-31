@@ -31,7 +31,7 @@
 •Functions are like the heart of JavaScript.
 <br/>
 
-📫 You can reach me at [chat](mailto:mehtaamitpro@gmail.com)!
+📫 You can reach me at mailto:mehtaamitpro@gmail.com
 
 
 ## 🚀 Languages and Tools:
