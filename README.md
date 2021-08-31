@@ -24,8 +24,11 @@
 
 ⚡Fun Facts
 JavaScript ♥️
+<br/>
 Time, Tide and JavaScript waits for none.
+<br/>
 Functions are like the heart of JavaScript.
+<br/>
 
 <!-- 📫 You can reach me at [chat](mailto:mehtaamitpro@gmail.com)! -->
 
