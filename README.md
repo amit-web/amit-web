@@ -22,7 +22,7 @@
 
 💬 **Ask me about :** JavaScript, React,Redux and MongoDb
 
-Portfolio :-  <a href="https://amit-mehta.netlify.app/" target="_blank"> </a>
+Portfolio :-  <a href="https://amit-mehta.netlify.app/" target="_blank"> Go through my Portfolio</a>
 
 ⚡Fun Facts
 <br/>
