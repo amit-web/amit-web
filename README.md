@@ -33,7 +33,7 @@ Portfolio :-  <a href="https://amit-mehta.netlify.app/" target="_blank"> Go thro
 •Functions are like the heart of JavaScript.
 <br/>
 
-📫 You can reach me at :mehtaamitpro@gmail.com
+📫 You can reach me at :amitmehta.webdev@gmail.com
 
 
 ## 🚀 Languages and Tools:
