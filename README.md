@@ -25,16 +25,11 @@
 
 ## ⚡ What I Do
 
-```javascript
-const amit = {
-  role:       "Frontend Developer",
-  focus:      ["React", "Custom Hooks", "Performance Optimization", "AI Integration"],
-  currently:  "Building AI-powered interfaces with LLM APIs",
-  seeking:    "Frontend / Full-Stack roles at product companies & startups",
-  superpower: "Turning complex UI problems into clean, reusable React patterns"
-};
-```
-
+**Role:** Frontend Developer  
+**Focus:** React · Custom Hooks · Performance Optimization · AI Integration  
+**Currently:** Building AI-powered interfaces with LLM APIs  
+**Seeking:** Frontend / Full-Stack roles at product companies & startups  
+**Superpower:** Turning complex UI problems into clean, reusable React patterns
 ---
 
 ## 🛠️ Tech Stack
