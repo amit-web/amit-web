@@ -1,107 +1,137 @@
+<!-- Header -->
+<div align="center">
 
+```
+ █████╗███╗   ███╗██╗████████╗    ███╗   ███╗███████╗██╗  ██╗████████╗ █████╗
+██╔══██╗████╗ ████║██║╚══██╔══╝    ████╗ ████║██╔════╝██║  ██║╚══██╔══╝██╔══██╗
+███████║██╔████╔██║██║   ██║       ██╔████╔██║█████╗  ███████║   ██║   ███████║
+██╔══██║██║╚██╔╝██║██║   ██║       ██║╚██╔╝██║██╔══╝  ██╔══██║   ██║   ██╔══██║
+██║  ██║██║ ╚═╝ ██║██║   ██║       ██║ ╚═╝ ██║███████╗██║  ██║   ██║   ██║  ██║
+╚═╝  ╚═╝╚═╝     ╚═╝╚═╝   ╚═╝       ╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
+```
 
-<a href="#"><img width="100%" height="auto" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" height="175px"/></a>
+</div>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Amit Mehta</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.Skilled in MERN stack.</h3>
+---
 
-<p align= "center">
+# `whoami` — Amit Mehta
 
-<img src="https://img.shields.io/badge/JS-Javascript-red"/>
-<img src="https://img.shields.io/badge/React-React-blue"/>
-<img src="https://img.shields.io/badge/Node-node-green"/>
-<img src="https://img.shields.io/badge/express-Express-blueviolet"/>
-<img src="https://img.shields.io/badge/Mongodb-mongodb-brightgreen"/>
-</p>
+**Frontend Developer · React Specialist · AI-Powered UI Builder**  
+4 years crafting fast, scalable interfaces — now integrating LLMs to build cutting-edge products.
 
-## 🙋‍♂️ About Me
+📍 India &nbsp;|&nbsp; 📬 amitmehta.webdev@gmail.com &nbsp;|&nbsp; 🔗 [Portfolio](https://amit-mehta.netlify.app/) &nbsp;|&nbsp; 💼 **Open to Work**
 
-🌱 **I’m currently learning :** Full Stack Web Development
+---
 
-🤝 I’m looking for help with OpenSource Contributions. Ping me, if you can guide me. Would be grateful.
+## ⚡ What I Do
 
-💬 **Ask me about :** JavaScript, React,Redux and MongoDb
+```javascript
+const amit = {
+  role:       "Frontend Developer",
+  focus:      ["React", "Custom Hooks", "Performance Optimization", "AI Integration"],
+  currently:  "Building AI-powered interfaces with LLM APIs",
+  seeking:    "Frontend / Full-Stack roles at product companies & startups",
+  superpower: "Turning complex UI problems into clean, reusable React patterns"
+};
+```
 
-Portfolio :-  <a href="https://amit-mehta.netlify.app/" target="_blank"> Go through my Portfolio</a>
+---
 
-⚡Fun Facts
-<br/>
-•JavaScript ♥️
-<br/>
-•Time, Tide and JavaScript waits for none.
-<br/>
-•Functions are like the heart of JavaScript.
-<br/>
+## 🛠️ Tech Stack
 
-📫 You can reach me at :amitmehta.webdev@gmail.com
+**Core Frontend**
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-## 🚀 Languages and Tools:
-<p align="left">
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>    
-    <!-- <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>  -->
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
-     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>
-     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
-    <!-- <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a> --> 
-    <!-- <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>  -->   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-    
-</p>
-<br/>
+**Backend & Tools**
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
+**AI & Emerging**
 
-<p align="center">
-    <a href="https://github.com/amit-web/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Amit Mehta's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=amit-web&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+![Anthropic](https://img.shields.io/badge/Claude_API-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white)
 
- 
-  <p align="center">
-    <a href="https://github.com/amit-web/github-readme-stats"><img alt="Amit Mehta's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amit-web&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    </p>
-    <!-- <p align="center">
-  <a href="https://github.com/amit-web/github-readme-stats"><img alt="Amit Mehta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-web&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a></p> -->
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-web&theme=react&hide_border=true&bg_color=0D1117" height="260px" width="33.25%"/>
-    </p>
- 
+---
 
-  <!-- <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amit-web&show_icons=true&locale=en&layout=compact" alt="amit-web"/>
-</p>
+## 🚀 Featured Projects
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=amit-web&show_icons=true&locale=en" alt="amit-web" /></p> -->
+### ⚛️ React Performance & Hooks Suite
+> Custom hooks library built for real-world performance patterns
 
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+- `useDebounce` — optimized search with keystroke delay control
+- `useThrottle` — smooth infinite scroll without event flooding  
+- `useFetch` — data fetching with loading states, error handling & caching
+- Integrated against **DummyJSON API** with pagination, dark theme, and scroll progress indicator
 
-<br/>
-<br/>
+**Stack:** React 18 · Custom Hooks · REST API · CSS Grid
 
-<a href="https://github.com/amit-web/github-readme-activity-graph"><img alt="Amt Mehta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=amit-web&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+---
 
-<br/>
+### 🌳 Nested Checkbox Tree Component
+> Classic machine coding pattern for mid-level React interviews
 
-## Connect with me:
-<p align="left">
+- Recursive parent-child tree with **indeterminate state** support
+- Controlled component with full bi-directional sync
+- Zero external dependencies
 
-<a href = "www.linkedin.com/in/amitmehta007"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/Amitkum13525749"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+**Stack:** React · Recursion · Controlled Components
 
+---
 
+## 🤖 Currently Learning
 
-</p>
+```
+[ LLM API Integration ]  ████████░░  80%
+[ Prompt Engineering  ]  ███████░░░  70%
+[ RAG Patterns        ]  █████░░░░░  50%
+[ Vercel AI SDK       ]  ██████░░░░  60%
+[ AI-powered UX       ]  ████████░░  75%
+```
 
-## ❤ Views and Followers
-<a href="https://github.com/amit-web/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=amit-web">
-</a>
-<a href="https://github.com/amit-web?tab=followers"><img src="https://img.shields.io/github/followers/amit-web?label=Followers&style=social" alt="GitHub Badge"></a>
+I'm actively building projects that combine **React frontends with AI backends** — because the next generation of products will be AI-native, and I want to be building them.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=amit-web&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amit-web&langs_count=6&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amit-web&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm actively looking for **Frontend / React roles at product startups and mid-size product companies** where React expertise is genuinely valued.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amitmehta007)
+[![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Amitkum13525749)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=flat-square&logo=google-chrome&logoColor=white)](https://amit-mehta.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:amitmehta.webdev@gmail.com)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=amit-web&color=blue&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/amit-web?label=Followers&style=flat-square&color=blue" />
+  
+  <br/><br/>
+  
+  <sub>💡 <i>"Ship fast, learn faster — the best code is code that solves real problems."</i></sub>
+</div>
